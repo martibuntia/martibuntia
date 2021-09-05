@@ -1,0 +1,13 @@
+"short_name":"Resources",
+"name":"Minecraft Resources",
+"icons":[
+  {
+    "src":"favicon.ico",
+    "type":"image/vnd.microsoft.icon",
+    "sizes":"48x48"
+  }
+],
+"start_url":"index.html",
+"background_color":"#000000",
+"display":"standalone",
+"theme_color":"#0000000"
